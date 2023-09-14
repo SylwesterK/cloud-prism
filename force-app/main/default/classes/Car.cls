@@ -9,6 +9,7 @@ public class Car {
     public Boolean motorIsOn = true;
     public date currentDate = Date.today(); 
 }
+
 /* 
 Car car1 = new Car();
 car1.motor = 'V6';
