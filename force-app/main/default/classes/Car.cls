@@ -8,6 +8,7 @@ public class Car {
     public String color;
     public Boolean motorIsOn = true;
     public date currentDate = Date.today(); 
+    //public Radio carRadio;
 }
 
 /* 
