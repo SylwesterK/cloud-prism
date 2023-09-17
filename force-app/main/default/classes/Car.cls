@@ -12,6 +12,7 @@ public class Car {
 }
 
 /* 
+new line here
 Car car1 = new Car();
 car1.motor = 'V6';
 car1.maximumSpeed = 80;
